@@ -1,0 +1,1 @@
+This folder was upscaled with an interpolation 75/25% with my model/UniversalUpscaler_Detailed
